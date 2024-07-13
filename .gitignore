@@ -1,0 +1,9 @@
+- **.gitignore**: Specify files and directories to be ignored by Git.
+```plaintext
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+.ipynb_checkpoints/
